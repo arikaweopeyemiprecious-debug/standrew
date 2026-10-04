@@ -1,0 +1,3 @@
+</main>
+<footer class="footer"><div class="container footer-grid"><div><h3>St. Andrew’s Anglican Church</h3><p>A welcoming church family serving God and community in Sauka, Kuje-Abuja.</p></div><div><h4>Service Times</h4><p>Sunday Service — 8:00 AM<br>Monday Bible Study — 6:00 PM<br>Wednesday Mid-week — 6:00 PM</p></div><div><h4>Find Us</h4><p>Sauka, Kuje-Abuja, FCT, Nigeria</p><a class="footer-link" href="contact.php">Contact the Church →</a></div></div><div class="copyright">© <?php echo date('Y'); ?> St. Andrew’s Anglican Church. All rights reserved.</div></footer>
+<a class="to-top" href="#">↑</a><script src="main.js"></script></body></html>
